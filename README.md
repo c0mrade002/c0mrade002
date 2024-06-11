@@ -1,4 +1,4 @@
-![Security](https://www.keepersecurity.com/blog/wp-content/uploads/2023/03/blog@2x-12-1024x349.jpg)
+![Security](https://i.postimg.cc/7PGZ3LP8/IMG-20240611-063309-564.jpg
 
 As a passionate programmer with a strong interest in security, I have leveraged my skills to develop a set of effective tools for those who want to test the security of their online platforms.
 
