@@ -22,4 +22,3 @@ To install the tools, clone this repository and follow the setup instructions:
 ```bash
 git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
-# Follow additional setup instructions here
