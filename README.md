@@ -23,4 +23,3 @@ To install the tools, clone this repository and follow the setup instructions:
 git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
 
-![GitHub Snake](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
