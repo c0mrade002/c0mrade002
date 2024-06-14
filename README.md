@@ -8,6 +8,8 @@ As a passionate programmer with a strong interest in security, I have leveraged 
 - **SQL**
 - **Python**
 
+![GitHub Snake](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
+
 ## Goals
 My goal is to provide effective tools for anyone looking to test the security of their online platform. If you find these tools useful, please share this project with your contacts.
 
@@ -22,5 +24,3 @@ To install the tools, clone this repository and follow the setup instructions:
 ```bash
 git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
-
-![GitHub Snake](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
