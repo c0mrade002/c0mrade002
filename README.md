@@ -7,6 +7,7 @@ As a passionate programmer with a strong interest in security, I have leveraged 
 - **C++**
 - **SQL**
 - **Python**
+- **JAVA**
 
 ## Goals
 My goal is to provide effective tools for anyone looking to test the security of their online platform. If you find these tools useful, please share this project with your contacts.
